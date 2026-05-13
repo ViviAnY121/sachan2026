@@ -1,0 +1,23 @@
+{
+  "name": "사의 찬미 2026",
+  "short_name": "사의 찬미",
+  "description": "뮤지컬 사의 찬미 2026 관람 기록 앱",
+  "start_url": "/sachan2026/",
+  "scope": "/sachan2026/",
+  "display": "standalone",
+  "background_color": "#071E55",
+  "theme_color": "#071E55",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
